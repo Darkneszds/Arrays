@@ -1,8 +1,8 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 void main()
 {
 	setlocale(LC_ALL, "");
-	int number = 0; cout << "Ââåäèòå ÷èñëî: "; cin >> number; cout << hex << number;
+	int number = 0; cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾: "; cin >> number; cout << hex << number;
 }
